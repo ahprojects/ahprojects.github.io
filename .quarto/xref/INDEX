@@ -1,0 +1,35 @@
+{
+  "tutorials/bioinformatics_tutorials/coding.qmd": {
+    "coding.html": "9fb58fb7"
+  },
+  "about.qmd": {
+    "about.html": "36ed9ddc"
+  },
+  "tutorials/wet_lab_tutorials/wet_lab_index.qmd": {
+    "wet_lab_index.html": "f9723cdb"
+  },
+  "tutorials/tutorials.qmd": {
+    "tutorials.html": "53565157"
+  },
+  "reproducible_research/automation/automation.qmd": {
+    "automation.html": "90a63c63"
+  },
+  "reproducible_research/transparency/transparency.qmd": {
+    "transparency.html": "47045930"
+  },
+  "reproducible_research/collaboration/collaboration.qmd": {
+    "collaboration.html": "c9025b64"
+  },
+  "reproducible_research/organisation/organisation.qmd": {
+    "organisation.html": "c77805d9"
+  },
+  "reproducible_research/index.qmd": {
+    "index.html": "5725f03b"
+  },
+  "reproducible_research/documentations/documentation_1.qmd": {
+    "documentation_1.html": "c37eab3f"
+  },
+  "reproducible_research/documentations/documentations.qmd": {
+    "documentations.html": "ef3e67ca"
+  }
+}

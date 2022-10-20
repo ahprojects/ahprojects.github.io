@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "ahprojects"
+  search: true
+  page-navigation: true
+ # site-url: "https://github.com/ahprojects/ahprojects.github.io" 
+  repo-url: https://github.com/ahprojects/ahprojects.github.io 
+  sidebar: 
+    style: docked
+    search: true
+    contents: 
+      - href: index.qmd
+        text: Welcome
+      - href: about.qmd
+        text: About
+      - section: reproducible_research/index.qmd
+        contents: 
+          - href: reproducible_research/organisation/organisation.qmd
+            text: Organisation
+          - section: reproducible_research/documentations/documentations.qmd
+            contents:
+              - href: reproducible_research/documentations/documentation_1.qmd
+                text: Documentations 2
+          - href: reproducible_research/automation/automation.qmd
+            text: Automation
+          - href: reproducible_research/collaboration/collaboration.qmd
+            text: Collaboration
+          - href: reproducible_research/transparency/transparency.qmd
+            text: Transparency
+      - section: tutorials/tutorials.qmd
+        contents:
+          - href: tutorials/bioinformatics_tutorials/coding.qmd
+            text: Bioinformatics
+          - href: tutorials/wet_lab_tutorials/wet_lab_index.qmd
+            text: Wet Lab
+format:
+  html:
+    theme:
+      light: journal
+      dark: darkly
+    css: styles.css
+    toc: true

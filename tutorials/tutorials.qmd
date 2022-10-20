@@ -1,0 +1,9 @@
+---
+title: "Tutorials"
+---
+
+## Tutorials section
+
+### [Wet Lab tutorials](wet_lab_tutorials/wet_lab_index.html)
+
+### [Bioinformatics tutorials](bioinformatics_tutorials/coding.html)

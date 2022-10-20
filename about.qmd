@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+## Why
+
+This site has been created in order to gather the main sub-titles of a 
+[reproducible scientific project](reproducible_research/index.qmd#what-is-reproducible-research), namely [documentation](reproducible_research/documentations/documentations.html#what-is-documentation), [organisation](reproducible_research/organisation/organisation.qmd#what-is-organisation), 
+[automation](reproducible_research/automation/automation.qmd#what-is-automation), [transparency](reproducible_research/transparency/transparency.qmd#what-is-transparency) and [collaboration](reproducible_research/collaboration/collaboration.qmd#what-is-collaboration), under the **[AHprojects](index.qmd#welcome)** hub.
