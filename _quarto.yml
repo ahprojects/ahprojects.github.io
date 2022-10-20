@@ -6,9 +6,23 @@ website:
   title: "ahprojects"
   search: true
   page-navigation: true
-  site-url: "https://ahprojects.github.io/" 
+  site-url: https://ahprojects.github.io
   repo-url: https://github.com/ahprojects/ahprojects.github.io
   sidebar: 
+    tools: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/abdullahhanta/
+        text: "LinkedIn"
+      - icon: github
+        href: https://github.com/ahprojects
+        text: "Github "
+      - icon: person-plus-fill
+        href: https://orcid.org/0000-0001-6158-5346
+        text: "OrcID"
+      - icon: emoji-sunglasses-fill
+        href: https://www.researchgate.net/profile/Abdullah-Hanta
+        text: "Researchgate" 
+    logo: "resources/img/94894624.png"
     style: docked
     search: true
     contents: 
