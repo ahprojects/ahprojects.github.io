@@ -31,5 +31,8 @@
   },
   "reproducible_research/documentations/documentations.qmd": {
     "documentations.html": "ef3e67ca"
+  },
+  "index.qmd": {
+    "index.html": "817e3750"
   }
 }

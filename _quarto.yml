@@ -7,7 +7,7 @@ website:
   search: true
   page-navigation: true
  # site-url: "https://github.com/ahprojects/ahprojects.github.io" 
-  repo-url: https://github.com/ahprojects/ahprojects.github.io 
+ # repo-url: https://github.com/ahprojects/ahprojects.github.io 
   sidebar: 
     style: docked
     search: true
