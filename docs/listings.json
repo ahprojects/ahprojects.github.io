@@ -1,0 +1,21 @@
+[
+  {
+    "listing": "/presentations.html",
+    "items": [
+      "/presentations/MYKU/index.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/2022-06-20-Bisgin_et_al_breast_2022/index.html",
+      "/publications/2021-01-31-Bozdagan_et_al_genes_2021/index.html"
+    ]
+  },
+  {
+    "listing": "/tutorials.html",
+    "items": [
+      "/tutorials/DNA-seq/index.html"
+    ]
+  }
+]

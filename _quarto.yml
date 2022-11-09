@@ -3,57 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "ahprojects"
+  title: "AHprojects"
   search: true
   page-navigation: true
-  site-url: https://ahprojects.github.io
-  repo-url: https://github.com/ahprojects/ahprojects.github.io
-  sidebar: 
-    tools: 
-      - icon: linkedin
-        href: https://www.linkedin.com/in/abdullahhanta/
-        text: "LinkedIn"
-      - icon: github
-        href: https://github.com/ahprojects
-        text: "Github "
-      - icon: person-plus-fill
-        href: https://orcid.org/0000-0001-6158-5346
-        text: "OrcID"
-      - icon: emoji-sunglasses-fill
-        href: https://www.researchgate.net/profile/Abdullah-Hanta
-        text: "Researchgate" 
-    logo: "resources/img/94894624.png"
-    style: docked
-    search: true
-    contents: 
-      - href: index.qmd
-        text: Welcome
-      - href: about.qmd
-        text: About
-      - section: reproducible_research/index.qmd
-        contents: 
-          - href: reproducible_research/organisation/organisation.qmd
-            text: Organisation
-          - section: reproducible_research/documentations/documentations.qmd
-            contents:
-              - href: reproducible_research/documentations/documentation_1.qmd
-                text: Documentations 2
-          - href: reproducible_research/automation/automation.qmd
-            text: Automation
-          - href: reproducible_research/collaboration/collaboration.qmd
-            text: Collaboration
-          - href: reproducible_research/transparency/transparency.qmd
-            text: Transparency
-      - section: tutorials/tutorials.qmd
-        contents:
-          - href: tutorials/bioinformatics_tutorials/coding.qmd
-            text: Bioinformatics
-          - href: tutorials/wet_lab_tutorials/wet_lab_index.qmd
-            text: Wet Lab
+  navbar: 
+    background: "#011f4b" # https://www.color-hex.com/color-palette/1294
+    foreground: "#6497b1" # https://www.color-hex.com/color-palette/1294
+    left: 
+      - text: "About"
+        file: index.qmd
+      - publications.qmd
+      - tutorials.qmd
+      - presentations.qmd
 format:
   html:
-    theme:
-      light: journal
-      dark: darkly
-    css: styles.css
+    theme: cosmo
     toc: true

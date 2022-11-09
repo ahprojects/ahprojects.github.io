@@ -1,0 +1,204 @@
+---
+title: "Germline landscape of BRCAs by 7-site collaborations as a BRCA consortium in Turkey"
+author:
+  - name: Assoc. Prof. Atıl BİŞGİN
+    url: https://avesis.cu.edu.tr/abisgin/
+    orcid: 0000-0002-2053-9076
+    attributes:
+      corresponding: TRUE
+    affiliations: 
+      - ref: cumedgen
+      - ref: cuagentem
+  - name: Assoc. Prof. Şebnem ÖZEMRİ SAĞ
+    url: https://avesis.uludag.edu.tr/ozemri
+    orcid: 0000-0002-3948-8889
+    affiliations: 
+      - ref: bursauludagmedgen
+  - name: Asst. Prof. Muhammet Ensar DOĞAN
+    url: https://avesis.erciyes.edu.tr/medogan
+    orcid: 0000-0002-5034-7083
+    affiliations: 
+      - ref: erciyesmedgen
+  - name: Prof. Mahmut Selman YILDIRIM
+    url: https://hastane.erbakan.edu.tr/doktor/59393/mahmut-selman-yildirim
+    affiliations:
+      - ref: konyamerammedgen
+  - name: Aydeniz Aydin Gumus
+    url: https://www.researchgate.net/profile/Aydeniz-Aydin-Gumus
+    affiliations:
+      - ref: mcbmedgen
+  - name: Nejmiye Akkus
+    url: https://www.researchgate.net/profile/Nejmiye-Akkus
+    affiliations:
+      - ref: kocaeliderincemedgen
+  - name: Ozgur Balasar
+    url: https://www.linkedin.com/in/%C3%B6zg%C3%BCr-balasar-001a61200/?originalSubdomain=tr
+    affiliations:
+      - ref: konyasehirmedgen
+  - name: Ceren Damla Durmaz
+    url: https://avesis.hacettepe.edu.tr/ceren.damla.durmaz
+    orcid: 0000-0002-6054-0709
+    affiliations:
+      - ref: diyarbakirgazimedgen
+      - ref: hacettepemedgen
+  - name: Recep Eroz
+    url: https://www.researchgate.net/profile/Recep-Eroez
+    affiliations:
+      - ref: duzcemedgen
+  - name: Sule Altiner
+    url: https://avesis.ankara.edu.tr/bicers
+    orcid: 0000-0001-5789-8630
+    affiliations:
+      - ref: kanunimedgen
+      - ref: ankaramedgen
+  - name: Adem Alemdar
+    url: https://avesis.ebyu.edu.tr/aalemdar
+    orcid: 0000-0003-3070-9224
+    affiliations:
+      - ref: bursauludagtransmed
+  - name: Lamia Aliyeva
+    url: https://www.acibadem.com.tr/doktor/lamiya-aliyeva/
+    affiliations:
+      - ref: bursauludagmedgen
+  - name: İbrahim Boga, PhD
+    url: https://avesis.cu.edu.tr/iboga
+    orcid: 0000-0002-8967-8218
+    affiliations: 
+      - ref: cumedgen
+      - ref: cuagentem
+  - name: Fethi S. Cam
+    url: https://akademik.yok.gov.tr/AkademikArama/view/viewAuthor.jsp
+    orcid: 0000-0002-8967-8218
+    affiliations: 
+      - ref: mcbmedgen
+  - name: Berkcan Dogan 
+    url: https://avesis.uludag.edu.tr/berkcandogan
+    orcid: 0000-0001-8061-8131
+    affiliations: 
+      - ref: bursauludagmedgen   
+      - ref: bursauludagtransmed
+  - name: Berkcan Dogan 
+    url: https://avesis.uludag.edu.tr/berkcandogan
+    orcid: 0000-0001-8061-8131
+    affiliations: 
+      - ref: bursauludagmedgen   
+      - ref: bursauludagtransmed
+  - name: Onur Esbah
+    url: https://akademik.duzce.edu.tr/onuresbah/profil/kariyer
+    orcid: 0000-0002-4782-9313
+    affiliations: 
+      - ref: duzcemedonco
+  - name: Abdullah Hanta
+    url: https://www.researchgate.net/profile/Abdullah-Hanta
+    orcid: 0000-0001-6158-5346
+    affiliations:
+      - ref: cuagentem
+  - name: Cem Müjde, Dvm, Phd 
+    url: https://www.researchgate.net/profile/Cem-Mujde
+    orcid: 0000-0002-7563-2948
+    affiliations:
+      - ref: cuagentem
+  - name: Cemre Ornek
+    url: https://www.researchgate.net/profile/Cemre-Oernek-Erguezeloglu
+    orcid: 0000-0002-5932-4259
+    affiliations:
+      - ref: bursauludagtransmed
+  - name: Çağla Rencüzoğulları, Phd
+    url: https://www.researchgate.net/scientific-contributions/Cagla-RENCUeZOGULLARI-2040247150
+    orcid: 0000-0003-4113-6820
+    affiliations:
+      - ref: cuagentem
+  - name: Özge Sönmezler, PhD
+    url: https://avesis.cu.edu.tr/osonmezler
+    orcid: 0000-0002-2757-718X
+    affiliations: 
+      - ref: cumedgen
+      - ref: cuagentem    
+  - name: Prof. Sevcan TUĞ BOZDOĞAN
+    url: https://avesis.cu.edu.tr/stbozdogan/
+    orcid: 0000-0003-3853-8212
+    affiliations: 
+      - ref: cumedgen
+      - ref: cuagentem
+  - name: Prof. MUNİS DÜNDAR
+    url: https://avesis.erciyes.edu.tr/dundar
+    orcid: 0000-0003-0969-4611
+    affiliations: 
+      - ref: erciyesmedgen
+  - name: Prof. Şehime GÜLSÜN TEMEL
+    url: https://avesis.uludag.edu.tr/sehime
+    orcid: 0000-0003-0969-4611
+    affiliations: 
+      - ref: bursauludagmedgen
+      - ref: bursauludagtransmed   
+affiliations: 
+  - name: Medical Genetics Department, Faculty of Medicine, Cukurova University 
+    url: https://tip.cu.edu.tr/cu/akademic/main-branches-science-branches/internal-medical-sciences/department-of-medical-genetics
+    id: cumedgen
+  - name: AGENTEM (Adana Genetic Diseases Diagnosis and Treatment Center), Cukurova University
+    url: https://balcali.cu.edu.tr/cu/ozellikli-hizmetler/genetik-tani-merkezi
+    id: cuagentem
+  - name: Medical Genetics Department, Faculty of Medicine, Bursa Uludag University
+    url: https://tip.uludag.edu.tr/tibbi-genetik-anabilim-dali
+    id: bursauludagmedgen
+  - name: Medical Genetics Department, Faculty of Medicine, Erciyes University
+    url: https://hastaneler.erciyes.edu.tr/tr/alt-birimler/detay/62-26/tibbi-genetik
+    id: erciyesmedgen
+  - name: Medical Genetics Department, Meram Faculty of Medicine, Necmettin Erbakan University
+    url: https://hastane.erbakan.edu.tr/tibbi-bolumler/dahili-tip-bilimleri-bolumu/tibbi-genetik-anabilim-dali
+    id: konyamerammedgen
+  - name: Medical Genetics Department, Faculty of Medicine, Manisa Celal Bayar University
+    url: https://tip.mcbu.edu.tr/dahili-tip-bolumu/tibbi-genetik.135.tr.html
+    id: mcbmedgen
+  - name: Department of Medical Genetics, Kocaeli Derince Training and Research Hospital, Health Sciences University
+    url: https://kocaelieah.saglik.gov.tr/?_Dil=2
+    id: kocaeliderincemedgen
+  - name: Department of Medical Genetics, Konya City Hospital, Health Sciences University
+    url: https://konyasehir.saglik.gov.tr/?_Dil=2
+    id: konyasehirmedgen
+  - name: Department of Medical Genetics, Gazi Yasargil Training and Research Hospital, Health Sciences University
+    url: https://diyarbakireah.saglik.gov.tr/EN-486248/history.html
+    id: diyarbakirgazimedgen
+  - name: Department of Medical Genetics, Faculty of Medicine, Hacettepe University
+    url: http://www.gen.hacettepe.edu.tr/
+    id: hacettepemedgen
+  - name: Department of Medical Genetics, Faculty of Medicine, Duzce University
+    url: https://duzce.edu.tr/akademik/fakulte/tip/dfac/tibbi-genetik-anabilim-dali
+    id: duzcemedgen
+  - name: Department of Medical Genetics, Kanuni Training and Research Hospital, Health Sciences University
+    url: https://trabzonkanunieah.saglik.gov.tr/EN-335328/medical-genetics-laboratory.html
+    id: kanunimedgen
+  - name: Department of Medical Genetics, Faculty of Medicine, Ankara University 
+    url: http://genetik.medicine.ankara.edu.tr/academic-staff/
+    id: ankaramedgen
+  - name: Department of Translational Medicine, Institute of Health Sciences, Bursa Uludag University
+    url: https://www.uludag.edu.tr/iofhealth/konu/view?id=9519&title=departments-and-graduate-programs
+    id: bursauludagtransmed
+  - name: Department of Medical Oncology,Faculty of Medicine, Duzce University
+    url: https://duzce.edu.tr/akademik/fakulte/tip/a969/c-hastaliklari-anabilim-dali
+    id: duzcemedonco
+      
+categories: [BRCA profiling, BRCA landscape, Population study, Genomic screening] # self-defined categories
+citation: 
+  url: https://www.mdpi.com/2073-4425/12/2/206#cite 
+image: https://www.thebreastonline.com/cms/attachment/ba6e757f-15a4-41cf-9374-e06a98a7cd3b/gr3.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+doi: https://doi.org/10.3390/genes12020206
+title-block-banner: "#25633c" # https://imagecolorpicker.com/
+title-block-banner-color: "#c4bcbe" # https://imagecolorpicker.com/
+---
+
+
+**Highlights**
+
+• A similar percentage of clinically unaffected individuals were also identified with potentially pathogenic variants.  
+• Based on the geographic examinations, Eastern Anatolian and the Mediterranean region had the lowest positivity rates.  
+• The Southeastern Anatolian region showed the lowest density of both patients and clinically relevant genetic changes.  
+
+## Abstract
+BRCA1/2 mutations play a significant role in cancer pathogenesis and predisposition particularly in breast, ovarian and prostate cancers. Thus, germline analysis of BRCA1 and BRCA2 is essential for clinical management strategies aiming at the identification of recurrent and novel mutations that could be used as a first screening approach. We analyzed germline variants of BRCA1/2 genes for 2168 individuals who had cancer diagnosis or high risk assessment due to BRCAs related cancers, referred to 10 health care centers distributed across 7 regions covering the Turkish landscape. Overall, 68 and 157 distinct mutations were identified in BRCA1 and BRCA2, respectively. Twenty-two novel variants were reported from both genes while BRCA2 showed higher mutational heterogeneity. We herein report the collective data as BRCA Turkish consortium that confirm the molecular heterogeneity in BRCAs among Turkish population, and also as the first study presenting the both geographical, demographical and gene based landscape of all recurrent and novel mutations which some might be a founder effect in comparison to global databases. This wider perspective leads to the most accurate variant interpretations which pave the way for the more precise and efficient management affecting the clinical and molecular aspects.
+
+## Keywords
+BRCA profiling, BRCA landscape, Population study, Genomic screening
+
+[Full Text](https://www.thebreastonline.com/action/showPdf?pii=S0960-9776%2822%2900113-8)

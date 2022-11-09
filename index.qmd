@@ -1,17 +1,27 @@
 ---
 title: "AHprojects"
+about: 
+  template: trestles
+  image: resources/img/ah.jpeg
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/ahprojects
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/abdullahhanta/
+    - icon: researchgate  
+      text: Researchgate
+      href: https://www.researchgate.net/profile/Abdullah-Hanta
+    - icon: orcid
+      text: Orcid
+      href: https://orcid.org/0000-0001-6158-5346
 ---
 
-## Welcome
-Hi 
+Hello and welcome to the AhProjects website. 
 
-This is **AHprojects** github pages website.
-
-
-## Why
-
-[Why not?](about.qmd#why) :)
+If you want to contact with the creator, organizer and publisher of the content of the site (maybe more than one in the future), you can click on the links.
 
 
-###### Contact:
-Feel free to click on any icons below the logo.
+### Abdullah HANTA
+I have a BSc degree in Molecular Biology and Genetics (Middle East Technical University). My interests include everything that evolves, including living things such as humans, animals, plants and bacteria, as well as non-living things such as computers, servers, meals and cocktails. I continue to work on the diagnosis and treatment mechanisms of diseases. But if you have an idea about a different non-disease evolutionary mechanism, I'd be happy to listen and help.

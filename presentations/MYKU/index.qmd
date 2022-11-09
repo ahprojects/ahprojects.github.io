@@ -1,0 +1,13 @@
+---
+title: "Sunum taslak"
+author: "AHanta"
+format: revealjs
+---
+
+## birinci slayt
+
+ahshhfda
+
+## ikinci slayt
+
+asdfsaf

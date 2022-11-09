@@ -1,0 +1,78 @@
+---
+title: "Current Status of Genetic Diagnosis Laboratories and Frequency of Genetic Variants Associated with Cystic Fibrosis through a Newborn-Screening Program in Turkey"
+author:
+  - name: Prof. Sevcan TUĞ BOZDOĞAN
+    url: https://avesis.cu.edu.tr/stbozdogan/
+    orcid: 0000-0003-3853-8212
+    affiliations: 
+      - ref: cumedgen
+      - ref: cuagentem
+  - name: Cem Müjde, Dvm, Phd 
+    url: https://www.researchgate.net/profile/Cem-Mujde
+    orcid: 0000-0002-7563-2948
+    affiliations:
+      - ref: cuagentem
+  - name: İbrahim Boga, PhD
+    url: https://avesis.cu.edu.tr/iboga
+    orcid: 0000-0002-8967-8218
+    affiliations: 
+      - ref: cumedgen
+      - ref: cuagentem
+  - name: Özge Sönmezler, PhD
+    url: https://avesis.cu.edu.tr/osonmezler
+    orcid: 0000-0002-2757-718X
+    affiliations: 
+      - ref: cumedgen
+      - ref: cuagentem
+  - name: Abdullah Hanta
+    url: https://www.researchgate.net/profile/Abdullah-Hanta
+    orcid: 0000-0001-6158-5346
+    affiliations:
+      - ref: cuagentem
+  - name: Çağla Rencüzoğulları, Phd
+    url: https://www.researchgate.net/scientific-contributions/Cagla-RENCUeZOGULLARI-2040247150
+    orcid: 0000-0003-4113-6820
+    affiliations:
+      - ref: cuagentem
+  - name: Assoc. Prof. DİLEK ÖZCAN
+    url: https://avesis.cu.edu.tr/dilekozcan
+    orcid: 0000-0003-3972-7277
+    affiliations:
+      - ref: cupedimmun
+  - name: Prof. DERYA UFUK ALTINTAŞ
+    url: https://avesis.cu.edu.tr/deraytek/
+    orcid: 0000-0003-2090-5248
+    affiliations:
+      - ref: cupedimmun
+  - name: Assoc. Prof. Atıl BİŞGİN
+    url: https://avesis.cu.edu.tr/abisgin/
+    orcid: 0000-0002-2053-9076
+    attributes:
+      corresponding: TRUE
+    affiliations: 
+      - ref: cumedgen
+      - ref: cuagentem
+affiliations: 
+  - name: Medical Genetics Department, Faculty of Medicine, Cukurova University 
+    url: https://tip.cu.edu.tr/cu/akademic/main-branches-science-branches/internal-medical-sciences/department-of-medical-genetics
+    id: cumedgen
+  - name: AGENTEM (Adana Genetic Diseases Diagnosis and Treatment Center), Cukurova University
+    url: https://balcali.cu.edu.tr/cu/ozellikli-hizmetler/genetik-tani-merkezi
+    id: cuagentem
+  - name: Department of Pediatric Allergy and Immunology Adana,Faculty of Medicine, Cukurova University
+    url: https://tip.cu.edu.tr/cu/akademic/main-branches-science-branches/internal-medical-sciences/pediatrics-immunology-and-allergy-diseases
+    id: cupedimmun 
+categories: [Genetic Disease in Mediterranean Region, cystic fibrosis, newborn screening, genetic testing, population genetics] # self-defined categories
+citation: 
+  url: https://www.mdpi.com/2073-4425/12/2/206#cite 
+image: https://upload.wikimedia.org/wikipedia/commons/0/03/Protein_CFTR_PDB_1xmi.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+doi: https://doi.org/10.3390/genes12020206
+title-block-banner: "#25633c" # https://imagecolorpicker.com/
+title-block-banner-color: "#c4bcbe" # https://imagecolorpicker.com/
+---
+
+## Abstract
+**Background:** Cystic fibrosis (CF) is the most common worldwide, life-shortening multisystem hereditary disease, with an autosomal recessive inheritance pattern caused by mutations in the cystic fibrosis transmembrane conductance regulator (CFTR) gene. The national newborn screening (NBS) program for CF has been initiated in Turkey since 2015. If the immunoreactive trypsinogen (IRT) is elevated (higher than 70 μg/L in the second control) and confirmed by sweat test or clinical findings, genetic testing is performed. The aims of this study are to emphasize the effect of NBS on the status of genetic diagnosis centers with the increasing numbers of molecular testing methods, and to determine the numbers and types of CFTR mutations in Turkey. Methods: The next-generation sequencing (NGS) and multiplex ligation-dependent probe amplification (MLPA) results of 1595 newborns, who were referred to Cukurova University Adana Genetic Diseases Diagnosis and Treatment Center (AGENTEM) for molecular genetic testing, were evaluated with positive CF NBS program results since 2017. Results: According to the results; 560 (35.1%) of the 1595 patients carried at least 1 (one) CF-related variant, while 1035 patients (64.9%) had no mutation. Compound heterozygosity for two mutations was the most common in patients, while two detected variants were homozygote in 14 patients. A total of 161 variants were detected in 561 patients with mutations. Fifteen novel variants that have not been previously reported were found. Moreover, p.L997F was identified as the most frequent pathogenic mutation that might affect the IRT measurements used for the NBS. The distribution of mutation frequencies in our study showed a difference from those previously reported; for example, the well-known p.F508del was the third most common (n = 42 alleles), rather than the first. The most striking finding is that 313 cases had a pathogenic variant together with the V470M variant, which might have a cumulative effect on CF perpetuation. Conclusion: This study is the first to determine the mutational spectrum of CFTR in correlation with the NBS program in the Turkish population. NBS for CF raises issues regarding screening in diverse populations, both medical and non-medical benefits, and carrier identification. Through the lens of NBS, we focused on the integrated diagnostic algorithms and their effect on the results of genetic testing.
+
+[Full Text](https://www.mdpi.com/2073-4425/12/2/206/pdf?version=1612079322)

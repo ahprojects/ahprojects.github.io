@@ -1,5 +1,0 @@
----
-title: "Wet lab Tutorials"
----
-
-## Wet Lab
