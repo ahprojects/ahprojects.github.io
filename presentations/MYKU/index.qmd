@@ -1,12 +1,10 @@
 ---
-title: "Sunum taslak"
+title: "MYKU-I DNA İzolasyonu"
 author: "AHanta"
-format: revealjs
 ---
 
-## birinci slayt
+## taslak
 
-ahshhfda
 
 ## ikinci slayt
 

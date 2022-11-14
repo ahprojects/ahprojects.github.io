@@ -1,0 +1,15 @@
+---
+title: "Ç.Ü. AGENTEM xaringan-template for presentations"
+author: "ahprojects"
+---
+
+# A xaringan-template for Ç.Ü. AGENTEM
+Template for presentations embedded below ın 16:9 ratio.
+
+```{r ,echo=FALSE}
+xaringanExtra::embed_xaringan(
+  url = "https://ahprojects.github.io/agentem-xaringan-template/#1",
+  ratio = "16:9"
+)
+```
+
