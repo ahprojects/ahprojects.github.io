@@ -1,3 +1,10 @@
 readme.txt
 /.quarto/
 .Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+_freeze/
+.quarto/
+_extensions/
