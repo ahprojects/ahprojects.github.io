@@ -14,7 +14,7 @@ website:
         file: index.qmd
       - publications.qmd
       - tutorials.qmd
-      - presentations.qmd
+      - presentation.qmd
 format:
   html:
     theme: cosmo

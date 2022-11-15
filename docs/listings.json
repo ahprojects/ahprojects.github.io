@@ -1,14 +1,5 @@
 [
   {
-    "listing": "/presentations.html",
-    "items": [
-      "/presentations/Lectures/MYKU-I/DNA-extraction/index.html",
-      "/presentations/Lectures/MYKU-I/index.html",
-      "/presentations/Lectures/index.html",
-      "/presentations/agentem-xaringan-template/index.html"
-    ]
-  },
-  {
     "listing": "/publications.html",
     "items": [
       "/publications/2022-06-20-Bisgin_et_al_breast_2022/index.html",
@@ -19,6 +10,15 @@
     "listing": "/tutorials.html",
     "items": [
       "/tutorials/DNA-seq/index.html"
+    ]
+  },
+  {
+    "listing": "/presentation.html",
+    "items": [
+      "/presentation/Lectures/MYKU-I/DNA-extraction/index.html",
+      "/presentation/Lectures/MYKU-I/index.html",
+      "/presentation/Lectures/index.html",
+      "/presentation/agentem-xaringan-template/index.html"
     ]
   }
 ]

@@ -1,7 +1,7 @@
 ---
-title: "Presentations"
+title: "Presentation"
 listing: 
-  contents: presentations # all Quarto docs in the `presentations` directory will be included on your listing page
+  contents: presentation # all Quarto docs in the `presentations` directory will be included on your listing page
   type: grid # or `grid` or `table`; each type has its own set of yaml options to include
   sort: "date desc" # can also sort on more than one field
   categories: true # allows you to sort posts by assigned categories 
