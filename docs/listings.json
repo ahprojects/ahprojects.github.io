@@ -2,7 +2,9 @@
   {
     "listing": "/presentations.html",
     "items": [
-      "/presentations/MYKU/index.html",
+      "/presentations/Lectures/MYKU-I/DNA-extraction/index.html",
+      "/presentations/Lectures/MYKU-I/index.html",
+      "/presentations/Lectures/index.html",
       "/presentations/agentem-xaringan-template/index.html"
     ]
   },

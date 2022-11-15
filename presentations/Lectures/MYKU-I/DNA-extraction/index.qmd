@@ -1,0 +1,16 @@
+---
+title: "DNA-extraction presentation of MYKU-I"
+author: "ahprojects"
+---
+
+# DNA-extraction
+DNA extraction presentation of Abdullah HANTA in MYKU-I master lesson.
+
+Instructor: Prof.Dr. Sevcan TUĞ BOZDOĞAN
+
+```{r ,echo=FALSE}
+xaringanExtra::embed_xaringan(
+  url = "https://ahprojects.github.io/presentations/Lectures/MYKU-I/DNA-extraction/index.html#1",
+  ratio = "16:9"
+)
+```
